@@ -1,0 +1,1 @@
+Jobica fullstack scaffold. See earlier instructions.
